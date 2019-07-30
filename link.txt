@@ -1,2 +1,8 @@
 https://create.arduino.cc/projecthub/iotboys/how-to-use-ds18b20-water-proof-temperature-sensor-2adecc
 https://randomnerdtutorials.com/esp8266-ds18b20-temperature-sensor-web-server-with-arduino-ide/
+
+libraries
+https://www.arduinolibraries.info/libraries/dallas-temperature
+https://www.arduinolibraries.info/libraries/ds18-b20
+https://www.arduinolibraries.info/libraries
+https://github.com/PaulStoffregen/OneWire
